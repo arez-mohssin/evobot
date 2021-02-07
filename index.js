@@ -111,3 +111,6 @@ client.on("message", async (message) => {
     message.reply(i18n.__("common.errorCommend")).catch(console.error);
   }
 });
+
+
+client.login("Nzg4ODgzOTY4NDA5ODYyMTk0.X9p_cg.hhewAGxVYP2epP5ksw7bKVi-VLc");
